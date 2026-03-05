@@ -36,3 +36,6 @@ Or run the app bundle in the usual way for your GNUStep installation.
 - `UI/` – `SVMainWindow` (tool strip, scroll view), `SVCanvasView` (drawing, tools, selection)
 
 See **PLAN.md** for the full implementation plan.
+
+## License
+GNU Affero General Public License v3.0
